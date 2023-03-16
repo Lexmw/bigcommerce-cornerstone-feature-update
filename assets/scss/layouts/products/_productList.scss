@@ -260,3 +260,20 @@
         }
     }
 }
+
+
+//Add All Products to Cart Button & container
+//-----------------------------------------------------------------------------
+
+.button-custom {
+    margin: 1.5rem;
+    font-size: smaller;
+    max-height: 30px;
+    text-align: center;
+    padding: 5px;
+}
+
+.product-listing-button-container {
+    display: flex;
+    justify-content: space-between;
+}
