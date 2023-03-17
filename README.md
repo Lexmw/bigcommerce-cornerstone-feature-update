@@ -1,3 +1,18 @@
+# Additional Features
+You can find the 2 main features added to this BigCommerce Cornerstone theme. Below you can find the details of each feature. To see the features in action visit the linke below to the live bigcommerce site.
+
+[Lexs Favorite Store](https://lexs-favorite-store.mybigcommerce.com/special-items/) to view the site, use the preview code: 105pmwzfry.
+
+```
++ Show second product image on hover
+This feature shows the second product image upon hover of the product  card in the product listing container. This feature is applied to all products in every category.
+
++ "Add All Items" & "Remove All Items" category button
+This feature allows the user to add the special item, in the special items category to the cart. Once the item is added it is replaced with a "Remove all items" button to remove all itmes from the same cart.
+```
+
+
+
 # Cornerstone
 ![tests](https://github.com/bigcommerce/cornerstone/workflows/Theme%20Bundling%20Test/badge.svg?branch=master)
 
