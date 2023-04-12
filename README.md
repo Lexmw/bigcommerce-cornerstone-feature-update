@@ -1,7 +1,7 @@
 # Additional Features
 You can find the 2 main features added to this BigCommerce Cornerstone theme. Below you can find the details of each feature. To see the features in action visit the linke below to the live bigcommerce site.
 
-[Lexs Favorite Store](https://lexs-favorite-store.mybigcommerce.com/special-items/) to view the site, use the preview code: 105pmwzfry.
+[Lexs Favorite Store](https://lexius-great-shop.mybigcommerce.com/special-items/) to view the site, use the preview code: 1vowaexq47.
 
 ### Show second product image on hover
 This feature shows the second product image upon hover of the product  card in the product listing container. This feature is applied to all products in every category. I was able to use the handlebar functions to pass the correct product images to the card and use conditionals to display the second image on hover.
